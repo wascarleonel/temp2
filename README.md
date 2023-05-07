@@ -91,12 +91,14 @@
 			<h2>Section 2</h2>
 	<!--  ************************************************** -->
 
+<!DOCTYPE html>
+<html>
 <head>
 	<title>My Progress Bars</title>
 	<style>
 		body {
-			background-color: white;
-			color: #011F3B;
+			background-color: #011F3B;
+			color: white;
 			font-family: Arial, sans-serif;
 			margin: 0;
 			padding: 0;
@@ -105,9 +107,16 @@
 			text-align: center;
 			margin-top: 2rem;
 		}
+		.progress-container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin-top: 2rem;
+		}
 		.progress-bar {
 			position: relative;
-			width: 100%;
+			width: 50%;
+			max-width: 500px;
 			height: 2rem;
 			background-color: #E2E2E2;
 			border-radius: 1rem;
@@ -128,36 +137,6 @@
 			color: white;
 			font-weight: bold;
 		}
-		.progress-bar:nth-child(1) span {
-			width: 90%;
-		}
-		.progress-bar:nth-child(2) span {
-			width: 75%;
-		}
-		.progress-bar:nth-child(3) span {
-			width: 85%;
-		}
-		.progress-bar:nth-child(4) span {
-			width: 70%;
-		}
-		.progress-bar:nth-child(5) span {
-			width: 95%;
-		}
-		.progress-bar:nth-child(6) span {
-			width: 80%;
-		}
-		.progress-bar:nth-child(7) span {
-			width: 60%;
-		}
-		.progress-bar:nth-child(8) span {
-			width: 65%;
-		}
-		.progress-bar:nth-child(9) span {
-			width: 50%;
-		}
-		.progress-bar:nth-child(10) span {
-			width: 40%;
-		}
 		.progress-bar span:after {
 			content: attr(data-percentage);
 			margin-left: 1rem;
@@ -166,6 +145,7 @@
 			font-size: 1.2rem;
 			font-weight: bold;
 			margin-bottom: 0.5rem;
+			text-align: center;
 		}
 	</style>
 </head>
@@ -195,9 +175,17 @@
 		</div>
 		<div class="progress-bar">
 			<span data-percentage="65%">Project Management</span>
-		</div
+		</div>
+		<div class="progress-bar">
+			<span data-percentage="50%">CRM</span>
+		</div>
+		<div class="progress-bar">
+			<span data-percentage="40%">Power BI</span>
+		</div>
+	</div>
+</body>
+</html>
 
-			
 	<!--  ************************************************** -->
 			
 		<!--	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget lacinia orci. Donec in placerat leo. Ut vel magna enim. Sed vel sem ut mi blandit vehicula. Nunc molestie, quam sit amet vehicula luctus, lectus lacus bibendum augue, vel vehicula augue erat eu velit.</p> -->
