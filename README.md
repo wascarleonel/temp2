@@ -7,7 +7,6 @@
 			background-color: #011F3B;
 			color: white;
 			font-family: Arial, sans-serif;
-			font-color: white; <!-- FONT COLOR -->
 			margin: 0;
 			padding: 0;
 		}
@@ -67,6 +66,14 @@
 			<img src="https://img.freepik.com/free-photo/portrait-young-smiling-man_171337-11976.jpg" alt="Profile picture">
 		</div>
 		<div class="info">
+
+<!-- ********************  -->
+<style>
+	.name {
+		color: white;
+	}
+</style>
+<!-- ********************  -->
 			<div class="name">Wascar Leonel</div>
 			<div class="title">Copywriter | Editor | Educator</div>
 		</div>
