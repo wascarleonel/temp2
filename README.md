@@ -67,10 +67,9 @@
 		</div>
 		<div class="info">
 
-	<!-- -->	<style> .name {color: white;} </style>
+	<!-- -->	<style> .name {color: white;}
 			<div class="name">Wascar Leonel</div>
-	<!-- -->	<style> .name {color: white;} </style>
-			<div class="title">Copywriter | Editor | Educator</div>
+			<div class="title">Copywriter | Editor | Educator</div> </style>
 
 		</div>
 		<nav>
