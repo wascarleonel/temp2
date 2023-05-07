@@ -70,7 +70,7 @@
 		</div>
 		<nav>
 			<a href="https://example.com">Button 1</a>
-			<a href="https://example.com">Button 2</a>
+			<a href="https://youtube.com">Button 2</a>
 			<a href="https://example.com">Button 3</a>
 			<a href="https://example.com">Button 4</a>
 		</nav>
