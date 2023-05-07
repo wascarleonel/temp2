@@ -67,16 +67,11 @@
 		</div>
 		<div class="info">
 
-<!-- ********************  -->
-<style>
-	.name {
-		color: white;
-	}
-
+	<!-- -->	<style> .name {color: white;} </style>
 			<div class="name">Wascar Leonel</div>
+	<!-- -->	<style> .name {color: white;} </style>
 			<div class="title">Copywriter | Editor | Educator</div>
-</style>
-<!-- ********************  -->
+
 		</div>
 		<nav>
 			<a href="https://example.com">Button 1</a>
