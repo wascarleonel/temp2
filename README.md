@@ -63,7 +63,7 @@
 <body>
 	<header>
 		<div class="profile">
-			<img src="profile.jpg" alt="Profile picture">
+			<img src="https://img.freepik.com/free-photo/portrait-young-smiling-man_171337-11976.jpg" alt="Profile picture">
 		</div>
 		<div class="info">
 			<div class="name">Wascar Leonel</div>
