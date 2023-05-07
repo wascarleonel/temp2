@@ -7,6 +7,7 @@
 			background-color: #011F3B;
 			color: white;
 			font-family: Arial, sans-serif;
+			font-color: white; <!-- FONT COLOR -->
 			margin: 0;
 			padding: 0;
 		}
@@ -99,7 +100,7 @@
 			padding: 0;
 		}
 		h1 {
-			text-align: left;  <!-- text-align: center; -->
+			text-align: center;
 			margin-top: 2rem;
 		}
 		.progress-bar {
