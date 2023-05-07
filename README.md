@@ -94,7 +94,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Progress Bars</title>
+	<!-- <title>My Progress Bars</title> -->
 	<style>
 		body {
 			background-color: #011F3B;
