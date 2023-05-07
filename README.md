@@ -99,7 +99,7 @@
 			padding: 0;
 		}
 		h1 {
-			text-align: center;
+			text-align: left;  <!-- text-align: center; -->
 			margin-top: 2rem;
 		}
 		.progress-bar {
