@@ -78,10 +78,9 @@
 	<main>
 		<section class="section">
 			<h2>A Little About Me</h2>
-			<p>I've honed my craft as a wordsmith and take pride in transforming complex ideas into engaging and accessible content in both digital (Audio, Video, E-books, etc.) and traditional or physical.
-
-As a lifelong learner and passionate educator, I believe in the transformative power of knowledge and the importance of clear and effective communication. My commitment to excellence and innovation drives me to explore new approaches and techniques to deliver the best results possible.
-</p>
+			<p>I've honed my craft as a wordsmith and take pride in transforming complex ideas into engaging and accessible content in both digital (Audio, Video, E-books, etc.) and traditional or physical.</p>
+<p></p>
+<p>As a lifelong learner and passionate educator, I believe in the transformative power of knowledge and the importance of clear and effective communication. My commitment to excellence and innovation drives me to explore new approaches and techniques to deliver the best results possible.</p>
 		</section>
 		<section class="section">
 			<h2>Section 2</h2>
