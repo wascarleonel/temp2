@@ -82,9 +82,10 @@
 <p></p>
 <p>As a lifelong learner and passionate educator, I believe in the transformative power of knowledge and the importance of clear and effective communication. My commitment to excellence and innovation drives me to explore new approaches and techniques to deliver the best results possible.</p>
 		</section>
-		<section class="section">
+	<!--  **************************************************
+ 		<section class="section">
 			<h2>Section 2</h2>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget lacinia orci. Donec in placerat leo. Ut vel magna enim. Sed vel sem ut mi blandit vehicula. Nunc molestie, quam sit amet vehicula luctus, lectus lacus bibendum augue, vel vehicula augue erat eu velit.</p>
 		</section>
 		<section class="section">
-			<h2>Section 3</h2>
+			<h2>Section 3</h2>  -->
